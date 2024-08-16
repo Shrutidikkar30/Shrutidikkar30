@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shruti+Dikkar!;" />
 </h1>
-<img align="right" alt="coding" width="400" height="270" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="right" alt="coding" width="350" height="250" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 - 🔭 I’m currently working on **Web Development**
 - 👯 Completed by DSA in **JAVA**
