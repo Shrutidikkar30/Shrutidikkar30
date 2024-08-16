@@ -29,9 +29,6 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,mysql,mongodb,firebase" /><br>
 </div>
 
-<br/>
-
-
 <h1 align="center">📊 GitHub Stats </h1>
 <br>
 <div align=center>
