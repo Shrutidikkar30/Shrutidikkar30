@@ -1,20 +1,19 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shruti+Dikkar!;" />
 </h1>
+<img align="right" alt="coding" width="400" height="270" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-<br/>
-
- 
 - 🔭 I’m currently working on **Web Development**
 - 👯 Completed by DSA in **JAVA**
 - 💬Connect with me [Gmail](mailto:shrutidikkar30@gmail.com)
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/Shrutidikkar30)
-- 📄Ask me about [Resume](https://drive.google.com/file/d/1Zhf4Re2qFIqUJ4tiGOLC8Ocry8uCrFYl/view?usp=drive_link)
+- 👨‍💻 All of my projects are available at [Profile](https://github.com/Shrutidikkar30)
+- 📄Ask me about [Technology](https://drive.google.com/file/d/1Zhf4Re2qFIqUJ4tiGOLC8Ocry8uCrFYl/view?usp=drive_link)
 - 💬 I'm always looking for new challenges and opportunities
 - ⚡ To collaborate with others, so feel free to reach out and connect with me!
 <br/>
+<br/>
 
-<h1 align="Center">🌐 Socials</h1>
+<h1 align="center">🌐 Socials</h1>
 <br/>
 <p align="center">
 <a href="https://linkedin.com/in/shrutidikkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrutidikkar" height="30" width="40" /></a>
