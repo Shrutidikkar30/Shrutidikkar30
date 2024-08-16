@@ -36,8 +36,7 @@
   <br/>
   <p><img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutidikkar30&show_icons=true&locale=en&langs_count=7&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="shrutidikkar30" /></p>
 </div>
-
-<br/><br/>
+<hr/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutidikkar30&label=Profile%20views&color=0e75b6&style=flat" alt="shrutidikkar30" /> </p>
 
 
